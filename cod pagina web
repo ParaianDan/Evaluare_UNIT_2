@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+
+
+table, th, td 
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+
+</style>
+
+<title>Prima mea pagina web</title>
+
+</head>
+
+<body>
+
+<h1 style="background-color:#52BE80; border:5px solid black">Paraian Dan</h1>
+
+<p>Email:Paraian.Ov.Dan@utcluj.didatec.ro</p>
+
+<br>
+<p><i><u>Specificatii tehnice ale statiei principale de lucru</u></i></p>
+</br>
+<img src="structura_retelei.png">
+<table style="width:100%">
+  <tr>
+	<th>Denumire componenta</th>
+	<th>Parametri</th>
+	<th>Producator</th>
+  </tr>
+  
+  <tr>
+	<td>Procesor</td>
+	<td>Intel Core i7 10510U</td>
+	<td>Asus</td>
+  </tr>
+  
+  <tr>
+	<td>Sistem de operare</td>
+	<td>Windows 10 Home</td>
+	<td>Asus</td>
+  </tr>
+  
+  <tr>
+	<td>Memorie</td>
+	<td>8GB</td>
+	<td>Asus</td>
+  </tr>
+  
+  <tr>
+	<td>Ecran</td>
+	<td>Panou iluminare LED Anti-Strălucire 13.3" (16:9) FHD (1920x1080) 60Hz cu 72% acoperire NTSC cu tehnologie pentru unghiuri largi de vizualizare, de 178˚</td>
+	<td>Asus</td>
+  </tr>
+  
+  <tr>
+	<td>Grafica</td>
+	<td>NVIDIA® GeForce® MX250,cu 2GB GDDR3</td>
+	<td>Asus</td>
+  </tr>
+  
+  <tr>
+	<td>Stocare</td>
+	<td>SSD PCIe Gen3 x2 256GB</td>
+	<td>Asus</td>
+  </tr>
+  
+  <tr>
+	<td>Tastatura</td>
+	<td>Tastatură Chiclet cu Iluminare</td>
+	<td>Asus</td>
+  </tr>
+  
+  <tr>
+	<td>Cititor de carduri</td>
+	<td>Cititor de carduri Multi-format</td>
+	<td>Asus</td>
+  </tr>
+  
+  <tr>
+	<td>WebCam</td>
+	<td>Camera IR</td>
+	<td>Asus</td>
+  </tr>
+  
+  <tr>
+	<td>Retea</td>
+	<td>Integrat Wi-Fi 6 (802.11 ax (2x2)) ; Bluetooth V5.0 Incorporat</td>
+	<td>Asus</td>
+  </tr>
+  
+  <tr>
+	<td>Interfata</td>
+	<td>1 x Tip C USB 3.1 (Gen 2);1 x Tip A USB 3.1 (Gen 2);1 x port(uri) USB 2.0 Tip A;1 x HDMI;1X Conector alimentare;1 x card micro SD;1 x jack audio MIXT</td>
+	<td>Asus</td>
+  </tr>
+
+  <tr>
+	<td>Audio</td>
+	<td>Suportă Cortana în Windows 10; Harman Kardon; Smart AMP</td>
+	<td>Asus</td>
+  </tr>
+  
+  <tr>
+	<td>Baterie</td>
+	<td>Baterie Polimer 3 Celule</td>
+	<td>Asus</td>
+  </tr>
+  
+  <tr>
+	<td>Adaptor</td>
+	<td>Tip Conector :ø4 (mm); Iesire :19 V DC, 3.42 A, 65 W; Intrare :100 -240 V AC, 50/60 Hz universal</td>
+	<td>Asus</td>
+  </tr>
+  
+  <tr>
+	<td>Dimensiune</td>
+	<td>302.96 x 189.3 x 17.9 ~ cm (WxDxH)</td>
+	<td>Asus</td>
+  </tr>
+  
+  <tr>
+	<td>Greutate</td>
+	<td>1.22 kg ~ 1.275 kg</td>
+	<td>Asus</td>
+  </tr>
+  
+  <tr>
+	<td>Securitate</td>
+	<td>TPM (Trusted Platform Module); fTPM (Modul Trusted Platform implementat la nivel firmware)</td>
+	<td>Asus</td>
+  </tr>
+  
+</table>
+
+
+</body>
+</html>
